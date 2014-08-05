@@ -3,7 +3,9 @@
 // @namespace    http://karachan.org/
 // @version      0.2.4
 // @description  Fajny skrypt do oznaczania anonków kolorami na podstawie unikalnych identyfikatorów
-// @match        http://karachan.org/b/res/*
+// @match        *://*.karachan.org/b/res/*
+// @match        *://*.karachan.co/b/res/*
+// @match        *://96.8.113.203/b/res/*
 // @copyright    2014, Łukasz Rajzer
 // ==/UserScript==
 
